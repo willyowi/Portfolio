@@ -1,0 +1,5 @@
+.something {
+    display: flex;
+    width: 100vw;
+    border: 1px solid red;
+}
